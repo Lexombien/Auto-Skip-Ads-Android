@@ -2,17 +2,17 @@
   "version": "2025-09-18-1",
   "rules": [
     {
-  "id": "amthanh",
-  "type": "ui_selector",
-  "selector": {
-    "id": "0_resource_name_obfuscated",
-    "className": "android.widget.ImageButton"
-  },
-  "action": {
-    "type": "click",
-    "delay_after_ms": 200
-  }
-}
+      "id": "amthanh",
+      "type": "ui_selector",
+      "selector": {
+        "id": "0_resource_name_obfuscated",
+        "className": "android.widget.ImageButton"
+      },
+      "action": {
+        "type": "click",
+        "delay_after_ms": 200
+      }
+    },
     {
       "id": "ad_obfuscated_button",
       "type": "ui_selector",
