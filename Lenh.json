@@ -13,6 +13,17 @@
   }
 },
         {
+  "id": "click_button",
+  "type": "ui_selector",
+  "selector": {
+    "className": "android.widget.Button"
+  },
+  "action": {
+    "type": "click",
+    "delay_after_ms": 200
+  }
+},
+        {
             "id": "amthanh",
             "type": "ui_selector",
             "selector": {
